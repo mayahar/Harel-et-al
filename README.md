@@ -1,4 +1,5 @@
-## Harel-et-ell
+## Harel-et-al
+
 Data analysis for the paper: 
 # Eye movement patterns under exposure to spatial disorientation illusions during simulated flight
 
